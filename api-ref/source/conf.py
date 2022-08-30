@@ -24,8 +24,8 @@ html_theme_options = {
     "sidebar_mode": "toctree"
 }
 otcdocs_auto_name = False
-project = 'Dummy Service'  # FIXME
-otcdocs_repo_name = 'opentelekomcloud-docs/template'  # FIXME
+project = 'Cloud Trace Service'  # FIXME
+otcdocs_repo_name = 'docs/cloud-trace-service'  # FIXME
 
 
 # If extensions (or modules to document with autodoc) are in another directory,
