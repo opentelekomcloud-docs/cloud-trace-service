@@ -1,0 +1,32 @@
+diff a/api-ref/source/conf.py b/api-ref/source/conf.py	(rejected hunks)
+@@ -10,23 +10,22 @@
+ # License for the specific language governing permissions and limitations
+ # under the License.
+ #
++# !!!
++# This file is generated out of template in doc-exports repository.
++# Beware overwriting it locally.
++
+ import os
+ import sys
+ 
+ extensions = [
+-    'otc_api_ref',
+     'otcdocstheme'
+ ]
+ 
+-
+-html_theme = 'otcdocs'
+-html_theme_options = {
+-    "sidebar_mode": "toctree"
+-}
+ otcdocs_auto_name = False
+-project = 'Cloud Trace Service'  # FIXME
+-otcdocs_repo_name = 'docs/cloud-trace-service'  # FIXME
++otcdocs_auto_version = False
+ 
++project = 'Cloud Trace Service'
++otcdocs_repo_name = 'docs/cloud-trace-service'
+ 
+ # If extensions (or modules to document with autodoc) are in another directory,
+ # add these directories to sys.path here. If the directory is relative to the
