@@ -23,7 +23,7 @@ Supported Services and Operation Lists
    computing/index
    storage/index
    network/index
-   management_&_deployment/index
+   management_and_deployment/index
    application/index
    database/index
    security/index
