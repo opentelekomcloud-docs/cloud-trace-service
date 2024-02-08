@@ -1,6 +1,6 @@
-:original_name: cts_02_0003.html
+:original_name: cts_02_0006.html
 
-.. _cts_02_0003:
+.. _cts_02_0006:
 
 Querying Archived Traces
 ========================

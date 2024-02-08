@@ -1,42 +1,42 @@
-:original_name: en-us_topic_0030932518.html
+:original_name: en-us_topic_0000001410799284.html
 
-.. _en-us_topic_0030932518:
+.. _en-us_topic_0000001410799284:
 
 FAQs
 ====
 
--  :ref:`Can I Create Multiple Trackers? <cts_faq_001>`
--  :ref:`Which Type of Information Is Displayed on the Trace List? <cts_faq_002>`
--  :ref:`Can I Delete Traces from the Trace List? <cts_faq_003>`
--  :ref:`What Are the Recommended Users of CTS? <cts_faq_005>`
--  :ref:`How Long Can Trace Files Be Retained? <cts_faq_006>`
--  :ref:`What Will Happen If I Have Enabled CTS But Have Not Configured a Correct Policy for the OBS Bucket? <cts_faq_007>`
--  :ref:`Will Performance of Other Cloud Service Resources Be Affected If I Enable CTS? <cts_faq_009>`
--  :ref:`Why Are Fields of Some Traces Displayed as Null on the View Trace Page? <cts_faq_010>`
--  :ref:`Why Are the Resource IDs of Some Traces in the Trace List Hyperlinks? <cts_faq_011>`
+-  :ref:`Must I Use an IAM User (Sub Account) to Configure Transfer on CTS and Perform Operations on an OBS Bucket? <cts_faq_0040>`
+-  :ref:`How Will CTS Be Affected If My Account Is in Arrears? <cts_faq_004>`
+-  :ref:`What Are the Recommended Users of CTS? <cts_faq_001>`
+-  :ref:`What Will Happen If I Have Enabled Trace Transfer But Have Not Configured an Appropriate Policy for an OBS Bucket? <cts_faq_007>`
+-  :ref:`Does CTS Support Integrity Verification of Trace Files? <cts_faq_008>`
+-  :ref:`Why Are There Some Null Fields on the View Trace Page? <cts_faq_010>`
 -  :ref:`Why Is an Operation Recorded Twice in the Trace List? <cts_faq_012>`
--  :ref:`Why Are user_name and op_service Displayed When I Filter Traces by User? <cts_faq_013>`
--  :ref:`What Services Are Supported for Key Event Notification? <cts_faq_015>`
--  :ref:`Which Type of OBS Buckets Is Suitable for CTS to Store Traces? <cts_faq_017>`
--  :ref:`Why Are user and source_ip Empty for Some Traces with trace_type as systemAction? <cts_faq_019>`
--  :ref:`What Are the Meanings of the Three Trace Statuses? <cts_faq_020>`
+-  :ref:`What Services Are Supported by Key Event Notifications? <cts_faq_015>`
+-  :ref:`How Can I Store Trace Files for a Long Time? <cts_faq_017>`
+-  :ref:`Why Are user and source_ip Null for Some Traces with trace_type as SystemAction? <cts_faq_005>`
+-  :ref:`How Can I Find Out Who Created a Specific ECS? <cts_faq_0912>`
+-  :ref:`How Can I Find Out the Login IP Address of an IAM User? <cts_faq_0913>`
+-  :ref:`Why Are Two deleteMetadata Traces Generated When I Buy an ECS? <cts_faq_0915>`
+-  :ref:`What Can I Do If I Cannot Query Traces? <cts_faq_0918>`
+-  :ref:`Can I Disable CTS? <cts_faq_0919>`
 
 .. toctree::
    :maxdepth: 1
    :hidden: 
 
-   can_i_create_multiple_trackers
-   which_type_of_information_is_displayed_on_the_trace_list
-   can_i_delete_traces_from_the_trace_list
+   must_i_use_an_iam_user_sub_account_to_configure_transfer_on_cts_and_perform_operations_on_an_obs_bucket
+   how_will_cts_be_affected_if_my_account_is_in_arrears
    what_are_the_recommended_users_of_cts
-   how_long_can_trace_files_be_retained
-   what_will_happen_if_i_have_enabled_cts_but_have_not_configured_a_correct_policy_for_the_obs_bucket
-   will_performance_of_other_cloud_service_resources_be_affected_if_i_enable_cts
-   why_are_fields_of_some_traces_displayed_as_null_on_the_view_trace_page
-   why_are_the_resource_ids_of_some_traces_in_the_trace_list_hyperlinks
+   what_will_happen_if_i_have_enabled_trace_transfer_but_have_not_configured_an_appropriate_policy_for_an_obs_bucket
+   does_cts_support_integrity_verification_of_trace_files
+   why_are_there_some_null_fields_on_the_view_trace_page
    why_is_an_operation_recorded_twice_in_the_trace_list
-   why_are_user_name_and_op_service_displayed_when_i_filter_traces_by_user
-   what_services_are_supported_for_key_event_notification
-   which_type_of_obs_buckets_is_suitable_for_cts_to_store_traces
-   why_are_user_and_source_ip_empty_for_some_traces_with_trace_type_as_systemaction
-   what_are_the_meanings_of_the_three_trace_statuses
+   what_services_are_supported_by_key_event_notifications
+   how_can_i_store_trace_files_for_a_long_time
+   why_are_user_and_source_ip_null_for_some_traces_with_trace_type_as_systemaction
+   how_can_i_find_out_who_created_a_specific_ecs
+   how_can_i_find_out_the_login_ip_address_of_an_iam_user
+   why_are_two_deletemetadata_traces_generated_when_i_buy_an_ecs
+   what_can_i_do_if_i_cannot_query_traces
+   can_i_disable_cts
