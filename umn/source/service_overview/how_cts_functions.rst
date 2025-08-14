@@ -18,7 +18,7 @@ You can perform the following operations on a trace file:
 
 -  Trace file query
 
-   -  You can query operation records of the last seven days on the **Trace List** page by filter or time.
+   -  You can query operation records in the last seven days on the **Trace List** page by time and other filters.
    -  To query operation records earlier than seven days, you can download the trace files stored in OBS buckets if trace transfer has been configured.
    -  You can enable, disable, configure, or delete a tracker on the **Tracker List** page.
 
@@ -26,7 +26,7 @@ You can perform the following operations on a trace file:
 
 .. _cts_01_0003__en-us_topic_0179741689_fig160773715544:
 
-.. figure:: /_static/images/en-us_image_0000001231522936.png
+.. figure:: /_static/images/en-us_image_0000002378514145.png
    :alt: **Figure 1** How CTS functions
 
    **Figure 1** How CTS functions
