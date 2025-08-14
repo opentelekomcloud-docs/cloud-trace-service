@@ -7,11 +7,11 @@ Permissions Management
 
 You can use Identity and Access Management (IAM) to manage CTS permissions and control access to your resources. IAM provides identity authentication, permissions management, and access control.
 
-With IAM, you can use your account to create IAM users for your employees, and assign permissions to the users to control their access to resource types. For example, you can create IAM users for software developers and assign specific permissions to allow them to use CTS resources but prevent them from deleting resources or performing any high-risk operations.
+With IAM, you can use your account to create IAM users for your employees, and assign permissions to the users to control their access to specific resource types. For example, you can create IAM users for software developers and assign specific permissions to allow them to use CTS resources but prevent them from deleting resources or performing any high-risk operations.
 
-If your account does not require individual IAM users for permissions management, skip this section.
+If your account does not require IAM users for permissions management, you may skip this section.
 
-IAM can be used free of charge. You pay only for the resources in your account. For details, see *IAM Service Overview*.
+IAM can be used free of charge. You pay only for the resources in your account. For details, see `IAM Service Overview <https://docs.otc.t-systems.com/usermanual/iam/iam_01_0026.html>`__.
 
 CTS Permissions
 ---------------
@@ -86,4 +86,4 @@ Custom Permissions Policies
 
 You can create custom permissions policies to supplement the system-defined policies.
 
--  For details, see "Creating a Custom Policy" in the *IAM User Guide*.
+-  For details, see `Creating a Custom Policy <https://docs.otc.t-systems.com/usermanual/iam/iam_01_0016.html>`__.
