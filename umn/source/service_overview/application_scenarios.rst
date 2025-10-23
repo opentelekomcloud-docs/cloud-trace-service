@@ -29,14 +29,14 @@ Data Mining
 
 CTS mines data in traces to facilitate service health analysis, risk analysis, resource tracking, and cost analysis. You can also obtain the data from CTS and explore the data value yourself.
 
-A trace contains up to fields, recording when an operation was performed by a specific user on a specific resource and the IP address from which the operation was performed.
+A trace contains up to 21 fields, recording when an operation was performed by a specific user on a specific resource and the IP address from which the operation was performed.
 
 By configuring HTTP or HTTPS notifications, you can synchronize traces to your own system for analysis. In addition, CTS is connected to Cloud Eye and Log Tank Service (LTS) to help you monitor high-risk operations, detect unauthorized operations, and analyze resource usage.
 
 Fault Locating and Analysis
 ---------------------------
 
-You can configure filters to pinpoint the faulty operation and its details when a fault occurs, reducing the time and manpower required for detecting, locating, and fixing faults.
+You can configure filters to pinpoint the faulty operation and its details when a fault occurs, reducing the time and workforce required for detecting, locating, and fixing faults.
 
 CTS provides the following search dimensions: trace type, trace source, resource type, filter, operator and trace status. Each trace contains the request and response of an operation. Querying traces is one of the most efficient methods for locating a fault.
 
