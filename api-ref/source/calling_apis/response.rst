@@ -23,7 +23,7 @@ Similar to a request, a response also has a header, for example, **Content-type*
 
 .. _cts_api_0024__en-us_topic_0181150977_fig4865141011511:
 
-.. figure:: /_static/images/en-us_image_0000001866649757.png
+.. figure:: /_static/images/en-us_image_0000002471213444.png
    :alt: **Figure 1** Header fields of the response to the request for obtaining a user token
 
    **Figure 1** Header fields of the response to the request for obtaining a user token
