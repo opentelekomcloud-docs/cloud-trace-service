@@ -113,7 +113,9 @@ Response Parameters
 Example Request
 ---------------
 
-None
+.. code-block:: text
+
+   DELETE  'https://{endpoint}/v3/{project_id}/notifications?notification_id=xxx1,xxx2'
 
 Example Response
 ----------------

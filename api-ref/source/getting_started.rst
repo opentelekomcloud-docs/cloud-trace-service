@@ -36,7 +36,6 @@ Procedure
       {
        "bucket_name": "obs-f1da",  //Name of an Object Storage Service (OBS) bucket to which traces will be transferred. This parameter is mandatory and its value is a string.
         "is_support_trace_files_encryption": true,  //Whether trace files will be encrypted during transfer. This parameter is optional and its value is of boolean type.
-       "kms_id": "13a4207c-7abe-4b68-8510-16b84c3b5504",  //ID of the key for trace file encryption. When is_support_trace_files_encryption is set to true, this parameter is mandatory.
        "is_obs_created": true,  //Whether a new OBS bucket will be created. This parameter is optional and its value is of boolean type.
        "file_prefix_name": "yO8Q",   //File name prefix to mark trace files that need to be stored in OBS. This parameter is optional and its value is a string.
         "log_file_validate": {
@@ -52,8 +51,6 @@ Procedure
        "bucket_name": "obs-f1da",
        "file_prefix_name": "yO8Q",
        "is_obs_created": true,
-       "is_support_trace_files_encryption": true,
-       "kms_id": "13a4207c-7abe-4b68-8510-16b84c3b5504",
         "log_file_validate": {
        "is_support_validate": true
        },

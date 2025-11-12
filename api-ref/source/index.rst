@@ -12,3 +12,4 @@ Cloud Trace Service - API Reference
    v3_apis_recommended/index
    out-of-date_apis/index
    appendix/index
+   change_history
