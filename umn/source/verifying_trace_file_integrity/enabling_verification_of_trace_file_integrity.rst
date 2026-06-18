@@ -25,5 +25,5 @@ Enabling Verification of Trace File Integrity
 
 #. Click **Configure** in the row of the management tracker **system**. On the displayed **Configure Tracker** page, click **Next**, and enable **Verify Trace File** in the **Configure Transfer** step.
 
-.. |image1| image:: /_static/images/en-us_image_0000002344556252.png
-.. |image2| image:: /_static/images/en-us_image_0000002378673989.png
+.. |image1| image:: /_static/images/en-us_image_0000002626350784.png
+.. |image2| image:: /_static/images/en-us_image_0000002626510686.png

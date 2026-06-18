@@ -37,4 +37,4 @@ You can view the tracker information on the **Tracker List** page.
 
 The tracker records operations on cloud resources performed by the tenant who creates the tracker. For details about the cloud services supported by CTS, see :ref:`Supported Services and Operations <cts_03_0300>`.
 
-.. |image1| image:: /_static/images/en-us_image_0000002378674021.png
+.. |image1| image:: /_static/images/en-us_image_0000002656630081.png

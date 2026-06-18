@@ -23,7 +23,7 @@ Viewing Real-Time Traces in the Trace List
 
    .. _en-us_topic_0030594187__en-us_topic_0179639644_fig139361441134311:
 
-   .. figure:: /_static/images/en-us_image_0000002378514081.png
+   .. figure:: /_static/images/en-us_image_0000002626510684.png
       :alt: **Figure 1** Filters
 
       **Figure 1** Filters
@@ -56,8 +56,8 @@ Viewing Real-Time Traces in the Trace List
 
 #. For details about key fields in the trace structure, see section "Trace References" > "Trace Structure" and section "Trace References" > "Example Traces" in the *CTS User Guide*.
 
-.. |image1| image:: /_static/images/en-us_image_0000002344716080.png
-.. |image2| image:: /_static/images/en-us_image_0000002344556256.png
-.. |image3| image:: /_static/images/en-us_image_0000002378674025.jpg
-.. |image4| image:: /_static/images/en-us_image_0000002378514085.png
-.. |image5| image:: /_static/images/en-us_image_0000002378514105.png
+.. |image1| image:: /_static/images/en-us_image_0000002656750059.png
+.. |image2| image:: /_static/images/en-us_image_0000002626350790.png
+.. |image3| image:: /_static/images/en-us_image_0000002656630115.jpg
+.. |image4| image:: /_static/images/en-us_image_0000002656630113.png
+.. |image5| image:: /_static/images/en-us_image_0000002626350788.png

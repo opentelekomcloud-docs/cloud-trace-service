@@ -37,7 +37,7 @@ Traces files are in JSON format. :ref:`Figure 1 <en-us_topic_0030598498__en-us_t
 
 .. _en-us_topic_0030598498__en-us_topic_0179741530_fig10010033162146:
 
-.. figure:: /_static/images/en-us_image_0000002382467045.png
+.. figure:: /_static/images/en-us_image_0000002626350758.png
    :alt: **Figure 1** Trace file example
 
    **Figure 1** Trace file example

@@ -29,5 +29,5 @@ Procedure
 
       After the management tracker is deleted, CTS still retains historical traces. You can enable CTS again to restore the management tracker.
 
-.. |image1| image:: /_static/images/en-us_image_0000002344716124.png
-.. |image2| image:: /_static/images/en-us_image_0000002378514137.png
+.. |image1| image:: /_static/images/en-us_image_0000002656630103.png
+.. |image2| image:: /_static/images/en-us_image_0000002626350780.png

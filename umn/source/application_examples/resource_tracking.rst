@@ -44,5 +44,5 @@ The following takes the records of all operations on an ECS server as an example
 
 #. Check all the traces obtained in :ref:`5 <cts_03_0008__en-us_topic_0170932730_li36410601182>` and :ref:`7 <cts_03_0008__en-us_topic_0170932730_li14173783182013>`.
 
-.. |image1| image:: /_static/images/en-us_image_0000002344556268.png
-.. |image2| image:: /_static/images/en-us_image_0000002344556304.png
+.. |image1| image:: /_static/images/en-us_image_0000002626350744.png
+.. |image2| image:: /_static/images/en-us_image_0000002656750075.png

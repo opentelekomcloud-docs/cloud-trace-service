@@ -29,4 +29,4 @@ Procedure
 
       To obtain traces of the last seven days, use **createServer** as the keyword to query transferred traces in OBS buckets.
 
-.. |image1| image:: /_static/images/en-us_image_0000002344556296.png
+.. |image1| image:: /_static/images/en-us_image_0000002626510646.png

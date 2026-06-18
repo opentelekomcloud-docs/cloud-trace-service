@@ -34,4 +34,4 @@ Procedure
 
 #. If you still cannot query traces after the preceding steps, submit a service ticket for technical support.
 
-.. |image1| image:: /_static/images/en-us_image_0000002344556308.png
+.. |image1| image:: /_static/images/en-us_image_0000002626350798.png
