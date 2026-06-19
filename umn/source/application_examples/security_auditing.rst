@@ -50,5 +50,5 @@ The following takes the records of EVS disk creation and deletion in the last tw
 
 #. Check the traces obtained from steps :ref:`5 <cts_03_0006__en-us_topic_0170932679_li8526497437>` and :ref:`8 <cts_03_0006__en-us_topic_0170932679_li38255771182015>` to see whether there are any unauthorized operations or operations that do not conform to security rules.
 
-.. |image1| image:: /_static/images/en-us_image_0000002378514089.png
-.. |image2| image:: /_static/images/en-us_image_0000002344556276.png
+.. |image1| image:: /_static/images/en-us_image_0000002656750031.png
+.. |image2| image:: /_static/images/en-us_image_0000002656750027.png

@@ -31,7 +31,7 @@ If you enable **Transfer to OBS** when configuring the tracker, traces will be p
 #. Click a bucket in the **OBS Bucket** column.
 
 
-   .. figure:: /_static/images/en-us_image_0000002344716048.png
+   .. figure:: /_static/images/en-us_image_0000002626350756.png
       :alt: **Figure 1** Selecting an OBS bucket
 
       **Figure 1** Selecting an OBS bucket
@@ -59,7 +59,7 @@ If you enable **Transfer to OBS** when configuring the tracker, traces will be p
    For details about key fields in the CTS trace structure, see :ref:`Trace Structure <cts_03_0010>` and :ref:`Example Traces <cts_03_0011>`.
 
 
-   .. figure:: /_static/images/en-us_image_0000002378673969.png
+   .. figure:: /_static/images/en-us_image_0000002656750033.png
       :alt: **Figure 2** Viewing trace file content
 
       **Figure 2** Viewing trace file content
@@ -67,7 +67,7 @@ If you enable **Transfer to OBS** when configuring the tracker, traces will be p
 #. Decompress the downloaded package to obtain a JSON file with the same name as the package. Open the JSON file using a text file editor to view traces.
 
 
-   .. figure:: /_static/images/en-us_image_0000002378674061.png
+   .. figure:: /_static/images/en-us_image_0000002626350750.png
       :alt: **Figure 3** JSON file
 
       **Figure 3** JSON file
@@ -86,7 +86,7 @@ If you enable **Transfer to LTS** when configuring a tracker, traces will be tra
 #. Click an LTS log stream in the **Storage** column.
 
 
-   .. figure:: /_static/images/en-us_image_0000002344556220.png
+   .. figure:: /_static/images/en-us_image_0000002626350746.png
       :alt: **Figure 4** Selecting an OBS log stream
 
       **Figure 4** Selecting an OBS log stream
@@ -101,6 +101,6 @@ If you enable **Transfer to LTS** when configuring a tracker, traces will be tra
 
       Each time you can download up to 5,000 log events. If the number of selected log events exceeds 5000, you cannot download them directly from LTS. Transfer them to OBS and then download them from OBS.
 
-.. |image1| image:: /_static/images/en-us_image_0000002344556228.png
-.. |image2| image:: /_static/images/en-us_image_0000002344556236.png
-.. |image3| image:: /_static/images/en-us_image_0000002378673981.png
+.. |image1| image:: /_static/images/en-us_image_0000002626510656.png
+.. |image2| image:: /_static/images/en-us_image_0000002626350754.png
+.. |image3| image:: /_static/images/en-us_image_0000002656750025.png

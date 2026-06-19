@@ -29,5 +29,5 @@ Procedure
 
 After the tracker is disabled, the **Disable** button changes to **Enable**. To enable the management tracker again, click **Enable** and then click **OK**. The tracker will start recording operations again.
 
-.. |image1| image:: /_static/images/en-us_image_0000002344556324.png
-.. |image2| image:: /_static/images/en-us_image_0000002378514149.png
+.. |image1| image:: /_static/images/en-us_image_0000002626350774.png
+.. |image2| image:: /_static/images/en-us_image_0000002626510676.png

@@ -38,6 +38,22 @@ Procedure
 
 #. Click **Configure** in the **Operation** column in the row of the management tracker.
 
+#. Configure the basic information of the tracker, and click **Next**.
+
+   +-----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+   | Parameter                         | Description                                                                                                                                             |
+   +===================================+=========================================================================================================================================================+
+   | Tracker Name                      | The default value is **system** and cannot be changed.                                                                                                  |
+   +-----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+   | Enterprise Project                | Select an enterprise project.                                                                                                                           |
+   |                                   |                                                                                                                                                         |
+   |                                   | .. note::                                                                                                                                               |
+   |                                   |                                                                                                                                                         |
+   |                                   |    Enterprise projects allow you to manage cloud resources and users by project.                                                                        |
+   |                                   |                                                                                                                                                         |
+   |                                   |    For details about how to enable the enterprise project function, see "Creating an Enterprise Project" in *Enterprise Project Management User Guide*. |
+   +-----------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+
 #. On the **Configure Transfer** page, modify the transfer configurations of the tracker. For details, see :ref:`Table 1 <en-us_topic_0071185672__en-us_topic_0000001638190546_table74421624832>`.
 
    .. _en-us_topic_0071185672__en-us_topic_0000001638190546_table74421624832:
@@ -86,5 +102,5 @@ Procedure
 
       Traces recorded by CTS are delivered periodically to the OBS bucket for storage. If you configure an OBS bucket for a tracker, traces generated during the current cycle (usually several minutes) will be delivered to the configured OBS bucket. For example, if the current cycle is from 12:00:00 to 12:05:00 and you configure an OBS bucket for a tracker at 12:02:00, traces received from 12:00:00 to 12:02:00 will also be delivered to the configured OBS bucket for storage at 12:05:00.
 
-.. |image1| image:: /_static/images/en-us_image_0000002378673973.png
-.. |image2| image:: /_static/images/en-us_image_0000002344716040.png
+.. |image1| image:: /_static/images/en-us_image_0000002656750069.png
+.. |image2| image:: /_static/images/en-us_image_0000002656750065.png

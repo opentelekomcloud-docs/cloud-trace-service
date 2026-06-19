@@ -41,7 +41,7 @@ Procedure
 #. Select **Management** for **Trace Type**, **ECS** for **Trace Source**, **ecs** for **Resource Type**, and **Warning** for **Trace Status**. In the returned traces, locate the trace named **createServer**.
 #. Check the trace details and locate the fault based on the error code or error message.
 
-.. |image1| image:: /_static/images/en-us_image_0000002344556268.png
-.. |image2| image:: /_static/images/en-us_image_0000002344716072.png
-.. |image3| image:: /_static/images/en-us_image_0000002344556268.png
-.. |image4| image:: /_static/images/en-us_image_0000002378674001.png
+.. |image1| image:: /_static/images/en-us_image_0000002626350744.png
+.. |image2| image:: /_static/images/en-us_image_0000002626510660.png
+.. |image3| image:: /_static/images/en-us_image_0000002626350744.png
+.. |image4| image:: /_static/images/en-us_image_0000002656750035.png

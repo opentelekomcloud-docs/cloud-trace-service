@@ -142,6 +142,6 @@ After you create a key event notification, you can view its name, status, templa
       | Refreshing the key event notification list | Click |image3| in the upper right corner.                                                                          |
       +--------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 
-.. |image1| image:: /_static/images/en-us_image_0000002344716056.png
-.. |image2| image:: /_static/images/en-us_image_0000002378514073.png
-.. |image3| image:: /_static/images/en-us_image_0000002378673993.png
+.. |image1| image:: /_static/images/en-us_image_0000002656630097.png
+.. |image2| image:: /_static/images/en-us_image_0000002656750047.png
+.. |image3| image:: /_static/images/en-us_image_0000002626510672.png

@@ -22,7 +22,7 @@ Process Flow
 ------------
 
 
-.. figure:: /_static/images/en-us_image_0000002344556328.png
+.. figure:: /_static/images/en-us_image_0000002656630065.png
    :alt: **Figure 1** Process of granting CTS permissions
 
    **Figure 1** Process of granting CTS permissions

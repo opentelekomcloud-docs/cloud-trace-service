@@ -33,4 +33,4 @@ Procedure
 
    The **user** field shows details of the IAM user who created the ECS. The format is **{"name": "**\ *Account name*\ **", "id": "**\ *Account ID*\ **", "domain"{"name": "**\ *IAM user name*\ **", "id": "**\ *IAM user ID*\ **"}}**. If the ECS was created by an account, the IAM user name and the account name are the same.
 
-.. |image1| image:: /_static/images/en-us_image_0000002344556284.png
+.. |image1| image:: /_static/images/en-us_image_0000002656750021.png

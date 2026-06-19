@@ -26,7 +26,7 @@ You can perform the following operations on a trace file:
 
 .. _cts_01_0003__en-us_topic_0179741689_fig160773715544:
 
-.. figure:: /_static/images/en-us_image_0000002378514145.png
+.. figure:: /_static/images/en-us_image_0000002626510678.png
    :alt: **Figure 1** How CTS functions
 
    **Figure 1** How CTS functions

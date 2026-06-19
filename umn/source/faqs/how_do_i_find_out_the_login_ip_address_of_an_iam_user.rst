@@ -30,5 +30,5 @@ Procedure
 
    |image2|
 
-.. |image1| image:: /_static/images/en-us_image_0000002344716116.png
-.. |image2| image:: /_static/images/en-us_image_0000002378674049.png
+.. |image1| image:: /_static/images/en-us_image_0000002656750055.png
+.. |image2| image:: /_static/images/en-us_image_0000002626510680.png

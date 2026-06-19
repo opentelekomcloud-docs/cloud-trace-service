@@ -10,7 +10,7 @@ The log audit module is a core component necessary for information security audi
 Cloud Trace Service (CTS) is a log audit service for security. It allows you to collect, store, and query resource operation records. You can use these records to perform security analysis, track resource changes, audit compliance, and locate faults.
 
 
-.. figure:: /_static/images/en-us_image_0000002344556316.png
+.. figure:: /_static/images/en-us_image_0000002656630079.png
    :alt: **Figure 1** CTS service diagram
 
    **Figure 1** CTS service diagram
