@@ -103,6 +103,7 @@ Creating a Key Event Notification
 
    -  When **Yes** is selected for **Send Notification**:
 
+      -  **Create a cloud service agency.**: (Mandatory) If you select this check box, CTS automatically creates a cloud service agency named **cts_admin_trust** when you create a key event notification. The agency authorizes you to use SMN.
       -  **SMN Topic**: You can select an existing topic or click **SMN** to create one on the SMN console.
 
    -  If you do not want to send notifications, no further action is required.
