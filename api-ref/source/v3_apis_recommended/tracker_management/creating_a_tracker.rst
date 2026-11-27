@@ -45,6 +45,10 @@ Request Parameters
    +---------------------+-----------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
    | is_support_validate | No              | Boolean                                                                                          | Whether trace file verification is enabled for trace transfer. When this function is enabled, integrity verification will be performed to check whether trace files in OBS buckets have been tampered with. |
    +---------------------+-----------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+   | agency_name         | No              | String                                                                                           | Cloud service agency name.                                                                                                                                                                                  |
+   |                     |                 |                                                                                                  |                                                                                                                                                                                                             |
+   |                     |                 |                                                                                                  | If this parameter is set to **cts_admin_trust**, a cloud service agency named **cts_admin_trust** is automatically created during tracker creation.                                                         |
+   +---------------------+-----------------+--------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. _cts_api_0321__en-us_topic_0000001213477715_request_trackerobsinfo:
 
@@ -109,6 +113,10 @@ Response Parameters
    | detail                | String                                                                              | This parameter is returned only when the tracker status is **error**. It indicates the cause of the abnormal status, and its value can be **bucketPolicyError**, **noBucket**, or **arrears**. |
    +-----------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
    | obs_info              | :ref:`ObsInfo <cts_api_0321__en-us_topic_0000001213477715_response_obsinfo>` object | Information about the bucket to which traces are transferred.                                                                                                                                  |
+   +-----------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+   | agency_name           | String                                                                              | Cloud service agency name.                                                                                                                                                                     |
+   |                       |                                                                                     |                                                                                                                                                                                                |
+   |                       |                                                                                     | If this parameter is set to **cts_admin_trust**, a cloud service agency named **cts_admin_trust** is automatically created during tracker creation.                                            |
    +-----------------------+-------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. table:: **Table 5** ManagementEventSelector
@@ -240,6 +248,7 @@ Example Request
       {
         "tracker_type" : "system",
         "tracker_name" : "system",
+        "agency_name" : "cts_admin_trust",
         "obs_info" : {
           "is_obs_created" : false,
           "bucket_name" : "test-bucket",
@@ -262,6 +271,7 @@ The request is successful.
      "id" : "2e6fa9b8-8c6e-456d-b5d3-77be972d220b",
      "create_time" : 1587958482923,
      "domain_id" : "aexxxxxxxx4d4fb4bexxxxxxx791fbf",
+     "agency_name" : "cts_admin_trust",
      "obs_info" : {
        "is_obs_created" : false,
        "bucket_name" : "test-bucket",
